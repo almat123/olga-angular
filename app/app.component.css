@@ -1,0 +1,30 @@
+
+.jumbotron  {
+  background-color:cornflowerblue;
+  color:white;
+}
+
+footer .container {
+    background-color: lightgray;
+}
+
+.btn-google, .btn-youtube {
+    background-color:red; 
+    color:white;
+} 
+
+.btn-facebook {
+    background-color:cornflowerblue; 
+    color:white;
+} 
+
+.btn-linkedin {
+    background-color:cadetblue; 
+    color:white;
+} 
+
+.btn-twitter {
+    background-color:lightskyblue; 
+    color:white;
+} 
+
